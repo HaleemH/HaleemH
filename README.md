@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **Hhamidbiz@gmail.com**
-
 - ⚡ Fun fact **I'm not saying I'm batman 🦇 but you'll never see me and batman in the same room at the same time...🦹🏾‍♂️**
 
 <h3 align="left">Connect with me:</h3>

@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Haleem Hamid</h1>
 <h3 align="center">I'm a Full Stack Software Engineer</h3>
 
-- 🔭 I’m currently working on my portfolio
+- 🔭 I’m currently working on a dashboard / Scheduler for companies to improve productivity in their receiving departments.
 
 - 🌱 I’m currently learning **Node.JS, Mongo DB**
 

@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node.JS, Mongo DB**
 
-= 💻 My portfolio https://haleem-portfolio.herokuapp.com/
+-  💻 My portfolio https://haleem-portfolio.herokuapp.com/
 
 - 📝 Read my blogs [https://medium.com/@Haleem_H](https://medium.com/@Haleem_H)
 

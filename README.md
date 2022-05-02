@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a dashboard / Scheduler for companies to improve productivity in their receiving departments.
 
-- 🌱 I’m currently learning **Node.JS, Mongo DB**
+- 🐍 I’m currently learning **Python**
 
 -  💻 My portfolio https://haleem-portfolio.herokuapp.com/
 
